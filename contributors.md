@@ -33,3 +33,5 @@ Format to contribute:
 [Arpita Baraskar](https://github.com/ArpitaBaraskar)
 
 [Manasi Gade](https://github.com/manasi-gade07)
+
+[Laksh Jain](https://github.com/EMPEROR1216)
